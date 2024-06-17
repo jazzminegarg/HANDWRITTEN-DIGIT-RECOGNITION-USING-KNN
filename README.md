@@ -42,7 +42,7 @@ pip install pandas numpy scikit-learn matplotlib reportlab
    - **For a single scenario**:
      The code provided in the script evaluates one scenario where the train-test split is 70:30 and K is 2.
      ```python
-     python knn_evaluation.py
+     python hand_digit_recognition.py
      ```
    - **For all scenarios**:
      Uncomment the full implementation section in the script to evaluate all scenarios and save results to `knn_results.pdf`.
