@@ -1,6 +1,3 @@
-Certainly! Below is a README file for the provided code, suitable for a GitHub repository.
-
----
 
 # K-Nearest Neighbor Model Evaluation
 
