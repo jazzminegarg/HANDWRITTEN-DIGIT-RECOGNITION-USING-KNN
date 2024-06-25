@@ -121,7 +121,3 @@ pdf.close()
 ## Analysis
 
 The analysis section in the PDF report discusses the impact of different train-test splits and K values on the model's performance. It helps in understanding how these parameters affect accuracy and model behavior.
-
-## License
-
-This project is licensed under the MIT License.
